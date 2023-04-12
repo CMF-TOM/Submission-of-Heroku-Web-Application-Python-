@@ -1,0 +1,10 @@
+Flask
+render_template
+request
+numpy
+cv2
+base64
+sys
+json
+gunicorn
+opencv-contrib-python-headless
